@@ -20,7 +20,7 @@ def print_separator():
 
 def main():
     st.title("Estimasi Biaya Perjalanan")
-    st.image("https://assets.streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png", width=300)  # Menampilkan logo mobil dari Streamlit dengan lebar 300 pixel
+    st.image("https://assets.streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png")
     st.write("### Masukkan detail perjalanan Anda:")
 
     kendaraan = {
