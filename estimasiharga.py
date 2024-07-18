@@ -20,7 +20,6 @@ def print_separator():
 
 def main():
     st.title("Estimasi Biaya Perjalanan")
-    st.image('sunrise.jpg', caption='Sunrise by the mountains')
     st.write("### Masukkan detail perjalanan Anda:")
 
     kendaraan = {
